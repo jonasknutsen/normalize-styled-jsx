@@ -1,6 +1,6 @@
 {
   "name": "@jonasknutsen/styled-jsx-globals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React components, using styled-jsx, with useful css-snipptes",
   "main": "build/index.js",
   "directories": {
