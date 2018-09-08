@@ -1,7 +1,7 @@
 {
   "name": "@jonasknutsen/normalize-styled-jsx",
-  "version": "1.0.2",
-  "description": "Normalize.css, Reset.ccs, and Sanitize.cc as React components, using styled-jsx",
+  "version": "1.0.0",
+  "description": "React components, using styled-jsx, with useful css-snipptes",
   "main": "build/index.js",
   "directories": {
     "lib": "lib"
@@ -17,6 +17,9 @@
   },
   "keywords": [
     "normalize.css",
+    "reset.css",
+    "sanitize.css",
+    "system font",
     "styled-jsx",
     "react"
   ],
