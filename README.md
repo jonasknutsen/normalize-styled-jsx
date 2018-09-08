@@ -2,6 +2,8 @@
 
 React component with [styled-jsx](https://github.com/zeit/styled-jsx), that includes [normalize.css v8.0.0](https://github.com/necolas/normalize.css), [reset.css v2.0](https://meyerweb.com/eric/tools/css/reset/), and [sanitize.css v7.0.3](https://github.com/csstools/sanitize.css).
 
+[![npm version](https://badge.fury.io/js/%40jonasknutsen%2Fnormalize-styled-jsx.svg)](https://badge.fury.io/js/%40jonasknutsen%2Fnormalize-styled-jsx)
+
 ## Install and use
     npm install @jonasknutsen/normalize-styled-jsx
 
