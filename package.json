@@ -1,5 +1,5 @@
 {
-  "name": "@jonasknutsen/normalize-styled-jsx",
+  "name": "@jonasknutsen/styled-jsx-globals",
   "version": "1.0.0",
   "description": "React components, using styled-jsx, with useful css-snipptes",
   "main": "build/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonasknutsen/normalize-styled-jsx.git"
+    "url": "git+https://github.com/jonasknutsen/styled-jsx-globals.git"
   },
   "keywords": [
     "normalize.css",
@@ -26,9 +26,9 @@
   "author": "Jonas Knutsen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jonasknutsen/normalize-styled-jsx/issues"
+    "url": "https://github.com/jonasknutsen/styled-jsx-globals/issues"
   },
-  "homepage": "https://github.com/jonasknutsen/normalize-styled-jsx#readme",
+  "homepage": "https://github.com/jonasknutsen/styled-jsx-globals#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
