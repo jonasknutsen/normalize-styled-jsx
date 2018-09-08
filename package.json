@@ -1,6 +1,6 @@
 {
   "name": "@jonasknutsen/normalize-styled-jsx",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Normalize.css as a React component, using styled-jsx",
   "main": "build/index.js",
   "directories": {
